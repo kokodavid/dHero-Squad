@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dHero-Squad.iml" filepath="$PROJECT_DIR$/dHero-Squad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dHero-Squad_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dHero-Squad_main.iml" group="dHero-Squad" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dHero-Squad_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dHero-Squad_test.iml" group="dHero-Squad" />
+    </modules>
+  </component>
+</project>
