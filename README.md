@@ -6,3 +6,6 @@ The heroes application allows a user to add new squads and hero to an existing s
 
 ##Deployment
 The application has been deployed to heroku
+
+## Built With
+The application has been built with Gradle.
